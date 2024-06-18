@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "assets",
+			"path": "../assets"
+		},
+		{
+			"name": "amazon clone app",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
